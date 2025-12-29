@@ -13,30 +13,12 @@ body {
 .deeppink {
     color:deeppink;
 }
-li.red {
-    color: red;
-}
-li.blue {
-    color: blue;
-}
-li.green {
-    color: green;
-}
-ul ol li.red {
-    color: red;
-}
-ul ol li.green {
-    color: green;
-}
-ul ol li.blue {
-    color: blue;
-}
-p.italic {
+.italic {
     font-style: italic;
 }
-p.bold {
+.bold {
     font-style: bold;
 }
-span.large {
+.large {
     font-size: 50px;
 }

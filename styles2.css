@@ -1,49 +1,40 @@
 body {
     font-size: 24px;
 }
-p.green {
-    color: green;
-}
-p.red {
-    color: red;
-}
-p.italic {
-    font-style: italic;
-}
-p.bold {
+.bold {
     font-weight: bold;
 }
-li.green {
+.green {
     color: green;
 }
-li.red {
+.red {
     color: red;
 }
-li.blue {
+.blue {
     color: blue;
 }
-li.aqua {
+.aqua {
     color: aqua;
 }
 
-span.xxsmall {
+.xxsmall {
     font-size: 10px;
 }
-span.xsmall {
+.xsmall {
     font-size: 20px;
 }
-span.small {
+.small {
     font-size: 30px;
 }
-span.medium {
+.medium {
     font-size: 40px;
 }
-span.large {
+.large {
     font-size: 50px;
 }
-span.xlarge {
+.xlarge {
     font-size: 60px;
 }
-span.xxlarge {
+.xxlarge {
     font-size: 70px;
 }
